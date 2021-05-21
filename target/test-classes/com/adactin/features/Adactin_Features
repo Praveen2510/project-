@@ -1,0 +1,10 @@
+Feature: Hotel Booking In Adactin Site 
+
+Scenario: s1
+
+	Given user Launch The Application 
+	When user  Enter The Username In Username Field 
+	And  user  Enter The Password In Password Field 
+	Then user Click On The Login Button And it Navigates to Search Hotel Field 
+	
+	
